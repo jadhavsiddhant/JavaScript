@@ -1,0 +1,13 @@
+let x = 10;
+let y = 10e40; 
+let z= "hello 8+2";
+let isTrue = true;
+let arr = [1,2,3,4,5];
+let obj = {name: "virshin", age:19};
+let func = function() {return "helloworld"};
+let nullvalue = null;
+let undefinedvalue;
+let symbolvalue = Symbol('x');
+let bigIntvalue = 19389239293892892;
+let datevalue = new Date();
+let demo = `the sum of numbers is ${3+5}`;
